@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>E-COMMERCE APPLICATION FOR FARMERS</title>
+</head>
+<body>
+<P>echo "# project_batch_18" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/sindhushree1998/project_batch_18.git
+git push -u origin master
+</P>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
