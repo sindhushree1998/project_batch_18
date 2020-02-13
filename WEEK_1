@@ -3,12 +3,10 @@
 <title>E-COMMERCE APPLICATION FOR FARMERS</title>
 </head>
 <body>
-<P>echo "# project_batch_18" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/sindhushree1998/project_batch_18.git
-git push -u origin master
+<P>Analysis of Market location, stock details and its demand can be done within less time and with less effort.Crop
+profit can be optimized to maximum level due to multiple options, modern marketing methods and market
+analysis details that is available for the study.Government module has the authority to set the minimum
+price forminimum quality of crop
 </P>
 </body>
 </html>
